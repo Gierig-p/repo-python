@@ -1,0 +1,6 @@
+n1 =input('Descubra o tipo promitovo, e todas as informações de algo que você digitou: ')
+print('Qual o seu tipo',type(n1))
+print('É númerico? ',n1.isalnum())
+print('É Um letra? ',n1.isalpha())
+print('É digitavel? ',n1.isdigit())
+print('É decimal? ',n1.isdecimal())

@@ -1,0 +1,5 @@
+nome = input ("infome o seu nome!")
+idade = input ("Qual a sua idade: ")
+print (nome, end="...\n")
+print (nome,idade, sep="#")
+print ('seja bem vindo', nome)
